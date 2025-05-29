@@ -1,0 +1,6 @@
+# scheduler.ipynb requirements
+
+# Python version (not enforced, just informative unless used with tools like pyenv or poetry)
+python>=3.7
+
+notebook>=6.0
