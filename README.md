@@ -34,9 +34,11 @@ The algorithm continues evolving the population until an optimal or near-optimal
    cd timetable-scheduler-ga
 
 2. **Install dependencies**:
-  
+   
+   ```bash
    pip install -r requirements.txt
 
 3. **Launch the notebook**:
    
+   ```bash 
    jupyter notebook scheduler.ipynb
